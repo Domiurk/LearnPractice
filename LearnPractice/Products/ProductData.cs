@@ -79,7 +79,7 @@ public class ProductData : Control
         if(category == ProductCategory.None)
             category = SelectCategory();
 
-        Product result = new Product(name, description, price, category);
+        Product result = new (name, description, price, category);
         _products.Add(result);
         SaveData();
         return result;
