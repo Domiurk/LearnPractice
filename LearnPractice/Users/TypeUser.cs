@@ -1,4 +1,4 @@
-﻿namespace LearnPractice.ControlUsers;
+﻿namespace LearnPractice.Users;
 
 public enum TypeUser
 {

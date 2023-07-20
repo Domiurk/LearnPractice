@@ -1,0 +1,23 @@
+﻿[
+  {
+    "Name": "Frogi",
+    "Description": "Water Pokemon",
+    "Price": 20.0,
+    "Category": 3,
+    "ID": 26753075
+  },
+  {
+    "Name": "Frogi",
+    "Description": "Water Pok",
+    "Price": 25.0,
+    "Category": 3,
+    "ID": 39451090
+  },
+  {
+    "Name": "Dodik",
+    "Description": "weew",
+    "Price": 15.0,
+    "Category": 2,
+    "ID": 41421720
+  }
+]
